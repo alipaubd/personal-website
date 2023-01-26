@@ -1,0 +1,136 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    color: #707070;
+    margin-bottom: 35px;
+}
+
+img {
+    width: 100%;
+}
+
+
+.profile-intro {
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1450px 525px;
+
+
+
+
+}
+
+.half-width {
+    float: left;
+    width: 30%;
+    padding: 45px 127px;
+}
+
+section {
+
+    height: 500px;
+    padding-bottom: 25px;
+
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.orange-color {
+    color: #ec4c7a;
+}
+
+.link-btn {
+    background-color: #ec4f8e;
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+
+
+}
+
+.Biography {
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1450px 525px;
+}
+
+.latest-work h1,
+.clients h1 {
+    padding: 80px 470px;
+}
+
+.clients h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.clients h4,
+h6,
+p {
+    text-align: center;
+}
+
+.clients p,
+.contacts {
+    width: 50%;
+    margin-left: 350px;
+}
+
+.projects img {
+    float: left;
+    width: 25%;
+    margin-right: 22px;
+}
+
+#workone {
+    margin-left: 135px;
+}
+
+.clients {
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1450px 525px;
+}
+
+.contacts {
+    background-color: #ec4f8f;
+    padding: 30px 10px;
+    border-radius: 5px;
+}
+
+.contacts p {
+    margin: auto;
+}
+
+.contacts h3 {
+    text-align: center;
+    color: white;
+}
+
+.contacts p {
+    color: white;
+}
+
+footer {
+    padding: 10px 20px;
+    text-align: center;
+    margin-top: 45px;
+    color: #707070;
+}
